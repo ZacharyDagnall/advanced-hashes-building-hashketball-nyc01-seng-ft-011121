@@ -4,14 +4,14 @@ def game_hash
                 colors: ['Black', 'White'],
                 players: [{
                   player_name: 'Alan Anderson',
-                  number: '',
-                  shoe: '',
-                  points: -1,
-                  rebounds: -1,
-                  assists: -1,
-                  steals: -1,
-                  blocks: -1,
-                  slam_dunks: -1
+                  number: '0',
+                  shoe: '16',
+                  points: 22,
+                  rebounds: 12,
+                  assists: 12,
+                  steals: 3,
+                  blocks: 1,
+                  slam_dunks: 1
                   },{
                   player_name: '',
                   number: '',
