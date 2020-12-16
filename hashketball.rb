@@ -4,8 +4,8 @@ def game_hash
                 colors: ['Black', 'White'],
                 players: [{
                   player_name: 'Alan Anderson',
-                  number: '0',
-                  shoe: '16',
+                  number: 0,    #i feel like number and shoe size should be Strings not Nums
+                  shoe: 16,
                   points: 22,
                   rebounds: 12,
                   assists: 12,
